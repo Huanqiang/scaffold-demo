@@ -1,0 +1,25 @@
+{
+  "name": "scaffold-demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sd": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.0",
+    "cross-spawn": "^6.0.5",
+    "download-git-repo": "^2.0.0",
+    "fs-extra": "^8.1.0",
+    "handlebars": "^4.1.2",
+    "inquirer": "^6.5.0",
+    "log-symbols": "^3.0.0",
+    "ora": "^3.4.0"
+  }
+}
